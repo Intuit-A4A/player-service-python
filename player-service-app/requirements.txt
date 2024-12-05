@@ -1,5 +1,5 @@
 Flask==3.0.3
 requests
-pandas
-SQLAlchemy
-ollama
+pandas==2.2.3
+SQLAlchemy==2.0.36
+ollama==0.3.3
